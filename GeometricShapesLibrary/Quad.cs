@@ -20,7 +20,6 @@ namespace GeometricShapesLibrary {
             Side2 = side2;
             Side3 = side3;
             Side4 = side4;
-
         }
     }
 }
